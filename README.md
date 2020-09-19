@@ -1,1 +1,1 @@
-https://yurydamarad.github.io/rsschool-cv/
+https://yurydamarad.github.io/rsschool-cv/cv
