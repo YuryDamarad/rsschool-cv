@@ -1,0 +1,31 @@
+div{
+    background-color: #3366CC; 
+    background: linear-gradient(to left,#00364f 50%,#01a4a6 50%);
+    max-width: 1000px;
+    font-size: 20px;/* Цвет фона веб-страницы */
+    width: 550px;
+    border: 5px solid mediumslateblue;
+    margin: auto;
+   } 
+   h1 {
+    background-color: grey; 
+    text-align: center;/* Цвет фона под заголовком */
+   }
+   #par {
+    text-decoration: honeydew;
+    color: white; /* Цвет текста */
+   }
+IMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+#adress {
+    text-align: center;
+    text-shadow: aqua;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 0.5px;
+}
+#par {
+    font-weight: bold;
+}
